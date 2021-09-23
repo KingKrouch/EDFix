@@ -3,7 +3,7 @@
 // Config.ini variables
 bool useCustomFPSCap;
 bool useCustomFOV;
-int tMaxFPS;
+int maxFPS;
 bool ignoreUpdates;
 int customFOV;
 int motionBlurQuality;
